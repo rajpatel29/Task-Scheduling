@@ -1,0 +1,1 @@
+You have N tasks. To accomplish task i you need Mi minutes, and the deadline for this task is Di. You can complete a part of it, switch to another task, and then switch back.  So you decide to do them in such a manner that the maximum amount by which a task's completion time overshoots its deadline is minimized.
